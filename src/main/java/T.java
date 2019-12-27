@@ -12,5 +12,6 @@ public class T {
 
     public static  void c(){
         System.out.println(1);
+        System.out.println(2);
     }
 }
